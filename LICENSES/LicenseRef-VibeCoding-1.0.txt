@@ -1,0 +1,23 @@
+Vibe Coding License 1.0
+SPDX-License-Identifier: LicenseRef-VibeCoding-1.0
+
+This is a manifesto, not a license. It grants no rights.
+Pair it with a real license such as MIT or Apache-2.0.
+
+バイブコーディング、ビッチ❗️
+
+The Official License of Unreasonable Confidence
+
+1. Code may be written with or without understanding.
+2. If it works, it works.
+3. If it doesn't work, add another prompt.
+4. The author is not responsible for bugs caused by excessive confidence.
+5. Refactoring is optional. Shipping is mandatory.
+6. Coffee, chaos and artificial intelligence are recognized development tools.
+7. The right to say «It works on my machine» is irrevocable.
+
+Grant of Rights: none. The code is governed by the project's real license.
+
+Copyright © 2026. All vibes reserved.
+
+バイブコーディング、ビッチ❗️
